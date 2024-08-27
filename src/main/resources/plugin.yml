@@ -1,0 +1,4 @@
+name: MessageSync
+version: '${project.version}'
+main: com.oftx.messagesync.MessageSync
+api-version: '1.20'
